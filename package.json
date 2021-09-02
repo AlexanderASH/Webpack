@@ -1,0 +1,23 @@
+{
+  "name": "course_webpack",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AlexanderASH/Webpack.git"
+  },
+  "author": "Alexander Sanchez",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AlexanderASH/Webpack/issues"
+  },
+  "homepage": "https://github.com/AlexanderASH/Webpack#readme",
+  "devDependencies": {
+    "webpack": "^5.51.2",
+    "webpack-cli": "^4.8.0"
+  }
+}
